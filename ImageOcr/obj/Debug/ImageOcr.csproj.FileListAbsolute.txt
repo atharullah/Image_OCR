@@ -1,0 +1,14 @@
+E:\Sharepointproject\ImageOcr\obj\Debug\ImageOcr.csprojResolveAssemblyReference.cache
+E:\Sharepointproject\ImageOcr\bin\Debug\ImageOcr.exe
+E:\Sharepointproject\ImageOcr\bin\Debug\ImageOcr.pdb
+E:\Sharepointproject\ImageOcr\obj\Debug\ImageOcr.exe
+E:\Sharepointproject\ImageOcr\obj\Debug\ImageOcr.pdb
+E:\Sharepointproject\ImageOcr\bin\Debug\tessnet2_64.dll
+E:\Sharepointproject\ImageOcr\bin\Debug\tessnet2_64.pdb
+E:\Extra Projects\New folder\ImageOcr\obj\Debug\ImageOcr.exe
+E:\Extra Projects\New folder\ImageOcr\obj\Debug\ImageOcr.pdb
+E:\Extra Projects\New folder\ImageOcr\bin\Debug\ImageOcr.exe
+E:\Extra Projects\New folder\ImageOcr\bin\Debug\ImageOcr.pdb
+E:\Extra Projects\New folder\ImageOcr\bin\Debug\tessnet2_64.dll
+E:\Extra Projects\New folder\ImageOcr\bin\Debug\tessnet2_64.pdb
+E:\Extra Projects\New folder\ImageOcr\obj\Debug\ImageOcr.csprojResolveAssemblyReference.cache
